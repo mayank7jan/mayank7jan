@@ -20,6 +20,8 @@
 
 📫 Feel free to reach out to me on LinkedIn at [mayank-agrawal-7jan](https://www.linkedin.com/in/mayank-agrawal-7jan/). I'm enthusiastic about engaging in stimulating discussions, exploring potential collaborations, and leveraging the expertise of the R community to ensure your team achieves maximum ROI for your project!
 
+💻 Past Work Profile: https://github.com/mayank-procogia
+
 <!--
 **mayank7jan/mayank7jan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
